@@ -48,7 +48,6 @@ import static android.widget.Toast.LENGTH_SHORT;
 
 public class MainActivity extends AppCompatActivity {
     private static final int FILE_SELECT_CODE = 0;
-
     private RecyclerView recyclerView;
     LinearLayout linearLayout;
     SwipeRefreshLayout mSwipeRefreshLayout;

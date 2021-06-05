@@ -11,6 +11,7 @@ import java.io.Serializable;
 import java.util.List;
 
 @Entity
+public
 class EmployeeModeldb implements Serializable {
 
 
